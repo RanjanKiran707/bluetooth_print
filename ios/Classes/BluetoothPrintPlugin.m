@@ -254,7 +254,7 @@
        
     }
     
-    [command addPrintAndFeedLines:1];
+    [command addPrintAndFeedLines:0];
     return [command getCommand];
 }
 
